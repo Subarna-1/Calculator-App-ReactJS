@@ -1,2 +1,2 @@
-# React Calculator
-# website : https://Subarna-1.github.io/reactualtor/
+# Calculator
+>A simple calculator app in ReactJS
